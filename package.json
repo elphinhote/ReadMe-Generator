@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Caroline Twyman",
+  "author": "Eva Wang",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.5.2",
@@ -17,10 +17,10 @@
   "description": "ReadMe Project",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/carolinetwyman/ReadMeGeneratorApp.git"
+    "url": "git+ssh://https://github.com/elphinhote/ReadMe-Generator.git"
   },
   "bugs": {
-    "url": "https://github.com/carolinetwyman/ReadMeGeneratorApp/issues"
+    "url": "https://https://github.com/elphinhote/ReadMe-Generator/issues"
   },
-  "homepage": "https://github.com/carolinetwyman/ReadMeGeneratorApp#readme"
+  "homepage": "https://https://github.com/elphinhote/ReadMe-Generator#readme"
 }
