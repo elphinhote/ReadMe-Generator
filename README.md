@@ -11,7 +11,7 @@
 * [Questions](#questions)
 
 ## Description
-The App generates ReadMes for Projects
+The ReadMr Generator App generates ReadMes for Projects.
 
 ## Installation Instructions
 Clone or download the repository.
@@ -21,12 +21,14 @@ Clone or download the repository.
 "node index.js" command.
   
 To use the app, enter input by initiating command "node index" or "node index.js."
+
+
 The link to a walkthrough video demonstrating its functionality,  
 https://user-images.githubusercontent.com/65749636/107005975-55833a80-6745-11eb-98d9-89d95b1a60cc.mp4
 
 
 ## License
-ISC
+None
 
 ## Contributors
 Eva Wang
