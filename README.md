@@ -1,26 +1,4 @@
-Task
 
-The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
-
-
-Table of Contents
-
-
-Description 
-The app generates ReadMes for projects.  
-app 
-
-Installation Instructions 
-Download or clone the repo.
-  
-Usage Information  
- The application is invoked by using the following command:
-"node index.js".
-  
-
-
-
-  
 # ReadMe Generator
 
 
@@ -39,9 +17,13 @@ The App generates ReadMes for Projects
 Clone or download the repository.
 
 ## Usage Information
+ The application is invoked by using the following
+"node index.js" command.
+  
+To use the app, enter input by initiating command "node index" or "node index.js."
 The link to a walkthrough video demonstrating its functionality,  
 https://user-images.githubusercontent.com/65749636/107005975-55833a80-6745-11eb-98d9-89d95b1a60cc.mp4
-To use the app, enter the ReadMeGeneratorApp Directory and type the command "node index" or "node index.js."
+
 
 ## License
 ISC
