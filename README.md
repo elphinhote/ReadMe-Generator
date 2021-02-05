@@ -25,8 +25,8 @@ Usage Information
 
   
 # ReadMe Generator
-
-![project image](./imgs/inaction.png)
+![readmde](https://user-images.githubusercontent.com/65749636/107099171-cd914500-67c5-11eb-910f-11951fcaf664.PNG)
+![Recording 2 (1)](https://user-images.githubusercontent.com/65749636/107099623-0382f900-67c7-11eb-9370-69d77a3094e5.gif)
 
 ## Table of Contents
 * [Description](#description)
