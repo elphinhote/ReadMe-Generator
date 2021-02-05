@@ -12,6 +12,7 @@
 
 ## Description
 The ReadMe Generator App generates ReadMes for Projects.
+The purpose and function is to show how you will communicate to potential employers or other developers what is built and how it works.
 
 ## Installation Instructions
 Clone or download the repository.
