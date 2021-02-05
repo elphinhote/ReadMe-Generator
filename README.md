@@ -40,7 +40,7 @@ Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 Github: https://github.com/elphinhote/ReadMe-Generator.git
 
 ![Recording 2 (1)](https://user-images.githubusercontent.com/65749636/107099623-0382f900-67c7-11eb-9370-69d77a3094e5.gif)
-![readmde](https://user-images.githubusercontent.com/65749636/107099171-cd914500-67c5-11eb-910f-11951fcaf664.PNG)
+![Readme](https://user-images.githubusercontent.com/65749636/107100317-d899a480-67c8-11eb-959f-992194b3962f.PNG)
 
 
 
