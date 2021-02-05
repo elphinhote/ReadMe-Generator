@@ -1,6 +1,3 @@
-
-<h1> The ReadMe Generator </h1>
-
 Task
 
 The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
@@ -25,8 +22,7 @@ Usage Information
 
   
 # ReadMe Generator
-![readmde](https://user-images.githubusercontent.com/65749636/107099171-cd914500-67c5-11eb-910f-11951fcaf664.PNG)
-![Recording 2 (1)](https://user-images.githubusercontent.com/65749636/107099623-0382f900-67c7-11eb-9370-69d77a3094e5.gif)
+
 
 ## Table of Contents
 * [Description](#description)
@@ -55,10 +51,13 @@ Eva Wang
 
 ## Questions
 Contact me:
-
-Github: [https://github.com/carolinetwyman](https://github.com/carolinetwyman)
 Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
+Github: https://github.com/elphinhote/ReadMe-Generator.git
+
+
+![readmde](https://user-images.githubusercontent.com/65749636/107099171-cd914500-67c5-11eb-910f-11951fcaf664.PNG)
+![Recording 2 (1)](https://user-images.githubusercontent.com/65749636/107099623-0382f900-67c7-11eb-9370-69d77a3094e5.gif)
 
 
 
