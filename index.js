@@ -1,8 +1,3 @@
-
-import foo from './src/do_foo.js';
-
-console.log(foo());
-
 import { writeFile } from "fs";
 import pkg from 'inquirer';
 import generateMarkdown from "./utils/generateMarkdown.js";
@@ -13,23 +8,23 @@ const questions = [
     {
       type: "input",
       name: "appname",
-      message: "please enter the name of this application"
+      message: "Input the name of this application."
     },{
         type: "input",
         name: "description",
-        message: "please describe what this project does"
+        message: "What does this project do?"
       },{
         type: "input",
         name: "installation",
-        message: "how can one install this app?"
+        message: "How do you install this app?"
       },{
         type: "input",
         name: "usage",
-        message: "once installed, how can one use this app?"
+        message: "How can this app be used?"
       },{
         type: "input",
         name: "contributors",
-        message: "please enter the name(s) of the contributing creator(s)"
+        message: "What are the names of the app's creator?"
       },{
         type: "list",
         name: "license",
