@@ -16,7 +16,7 @@ The ReadMe Generator App generates ReadMes for Projects.
 ## Installation Instructions
 Clone or download the repository.
 
-## Usage Information
+## Usage
  The application is invoked by using the following
 "node index.js" command.
   
