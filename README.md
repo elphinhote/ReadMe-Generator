@@ -1,7 +1,7 @@
 
 <h1> The ReadMe Generator </h1>
 
-<h1> Task <h1>
+##Task
 
 The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
 
@@ -10,7 +10,7 @@ The task is to create a command-line application that dynamically generates a pr
 
 
 <h1> Description <h1> 
-This generates ReadMes quickly and easily
+The app generates ReadMes for projects.  
 app 
 <h1> Installation Instructions <h1> 
 Download or clone the repo.
