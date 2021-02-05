@@ -1,27 +1,63 @@
 
 <h1> The ReadMe Generator </h1>
 
-##Task
+Task
 
 The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
 
 
-<h1> Table of Contents <h1>
+Table of Contents
 
 
-<h1> Description <h1> 
+Description 
 The app generates ReadMes for projects.  
 app 
-<h1> Installation Instructions <h1> 
+
+Installation Instructions 
 Download or clone the repo.
   
-<h1>  Usage Information <h1> 
+Usage Information  
  The application is invoked by using the following command:
 "node index.js".
   
+
+
+
+  
+# ReadMe Generator
+
+![project image](./imgs/inaction.png)
+
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Questions](#questions)
+
+## Description
+The App generates ReadMes for Projects
+
+## Installation Instructions
+Clone or download the repository.
+
+## Usage Information
 The link to a walkthrough video demonstrating its functionality,  
 https://user-images.githubusercontent.com/65749636/107005975-55833a80-6745-11eb-98d9-89d95b1a60cc.mp4
+To use the app, enter the ReadMeGeneratorApp Directory and type the command "node index" or "node index.js."
 
+## License
+ISC
+
+## Contributors
+Eva Wang
+
+## Questions
+Contact me:
+
+Github: [https://github.com/carolinetwyman](https://github.com/carolinetwyman)
+Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 
 
